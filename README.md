@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 | [3731-find-missing-elements](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
