@@ -5,15 +5,18 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
