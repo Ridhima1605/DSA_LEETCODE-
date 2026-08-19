@@ -27,11 +27,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -48,4 +50,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ridhima1605/DSA_LEETCODE-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
